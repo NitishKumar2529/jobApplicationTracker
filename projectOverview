@@ -1,0 +1,33 @@
+# 📂 Smart Job Application Tracker (Java + DSA)
+
+## 📌 Overview
+This is a **Java + DSA based console application** that helps users store, manage, and search their job applications efficiently.  
+It implements **Merge Sort** for sorting and **Binary Search** for quick searching, showcasing both **OOP principles** and **data structures & algorithms** skills.
+
+---
+
+## 🛠 Features
+- ➕ Add new job applications
+- 📋 View all saved applications in a clean tabular format
+- 🔍 Search by company name using **Binary Search**
+- 📑 Sort applications by company name using **Merge Sort**
+- ✏️ Update job application status
+- ❌ Delete a job application
+
+---
+
+## 🧠 Tech & DSA Concepts Used
+- **Java Core**: Classes, Objects, Encapsulation, Collections
+- **Data Structures**: ArrayList, LinkedList, HashMap
+- **Algorithms**:
+  - Merge Sort (Sorting)
+  - Binary Search (Searching)
+
+---
+
+## 🚀 How to Run
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/NitishKumar2529/JobApplicationTracker.git
+
+   cd JobApplicationTracker
